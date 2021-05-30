@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-WhatToCookToday/static/css/main.c8284fb9.chunk.css",
+    "main.js": "/React-WhatToCookToday/static/js/main.fd9de128.chunk.js",
+    "main.js.map": "/React-WhatToCookToday/static/js/main.fd9de128.chunk.js.map",
+    "runtime-main.js": "/React-WhatToCookToday/static/js/runtime-main.bb817e11.js",
+    "runtime-main.js.map": "/React-WhatToCookToday/static/js/runtime-main.bb817e11.js.map",
+    "static/js/2.99ca7213.chunk.js": "/React-WhatToCookToday/static/js/2.99ca7213.chunk.js",
+    "static/js/2.99ca7213.chunk.js.map": "/React-WhatToCookToday/static/js/2.99ca7213.chunk.js.map",
+    "index.html": "/React-WhatToCookToday/index.html",
+    "static/css/main.c8284fb9.chunk.css.map": "/React-WhatToCookToday/static/css/main.c8284fb9.chunk.css.map",
+    "static/js/2.99ca7213.chunk.js.LICENSE.txt": "/React-WhatToCookToday/static/js/2.99ca7213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb817e11.js",
+    "static/js/2.99ca7213.chunk.js",
+    "static/css/main.c8284fb9.chunk.css",
+    "static/js/main.fd9de128.chunk.js"
+  ]
+}
